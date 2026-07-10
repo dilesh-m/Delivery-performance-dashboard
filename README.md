@@ -6,14 +6,6 @@
 
 ## 🔹 Project Overview
 
-!WhatsApp Image 2026-04-11 at 4.50.29 PM.jpeg
-
-!WhatsApp Image 2026-04-11 at 4.50.30 PM.jpeg
-
-!WhatsApp Image 2026-04-11 at 4.50.29 PM (1).jpeg.jpeg)
-
-!WhatsApp Image 2026-04-11 at 4.50.28 PM.jpeg
-
 The objective of this project was to design an **automated Power BI dashboard** to monitor **delivery and courier performance** across multiple locations.
 
 The dashboard provides stakeholders with a **real-time, interactive view** of shipment volumes, courier contribution, and geographic delivery distribution.
